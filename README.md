@@ -24,7 +24,8 @@ This repository contains the code for Reachinbox frontend  App using React with 
 The application is deployed on netlify and can be accessed [here](https://reachinbox-frontend.netlify.app/).
 
 ## Demo Video :- 
-will be uploaded soon...
+
+A demo video showcasing the app functionalities will be uploaded soon.
 
 ## Login Page
 
@@ -58,7 +59,7 @@ will be uploaded soon...
    
   1. **Clone the repository**:
   
-   git clone https://github.com/Shahnawaj01/Reachinbox-Frontend-assign.git
+   git clone <code>https://github.com/Shahnawaj01/Reachinbox-Frontend-assign.git<pre><br>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
