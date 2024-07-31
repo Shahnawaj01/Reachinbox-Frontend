@@ -57,7 +57,7 @@ will be uploaded soon...
    <h2>Installation</h2>
    
   1. **Clone the repository**:
-   ```sh
+  
    git clone https://github.com/Shahnawaj01/Reachinbox-Frontend-assign.git
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
