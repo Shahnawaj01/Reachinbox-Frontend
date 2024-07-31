@@ -26,7 +26,9 @@ The application is deployed on netlify and can be accessed [here](https://reachi
 ## Demo Video :- 
 
 
-https://github.com/user-attachments/assets/105c137a-9f1b-4c12-8eee-8a9d9e7a7f5e
+
+https://github.com/user-attachments/assets/e45213fa-1dfb-4ab6-a5e4-5f5959cb73d9
+
 
 
 
