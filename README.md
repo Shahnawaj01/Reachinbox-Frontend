@@ -71,7 +71,7 @@ A demo video showcasing the app functionalities will be uploaded soon.
   NEXTAUTH_SECRET=your-nextauth-secret <br>
 
  <h2>Required Figma Design and APIs</h2>
- Figma Login Design [here](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design/).<br>
+<a rel="noreferrer" target="_new" href="https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27">click here</a>
 APIs [here](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27/).
  
 
