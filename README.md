@@ -92,6 +92,6 @@ APIs = <a target="_blank" href="https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqm
 
  
    # Credits <br/>
-   This project was developed by ```Shahnawaz Ansari``` 
+   This project was developed by ```Shahnawaj Kyum Ansari``` 
 
   
