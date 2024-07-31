@@ -59,7 +59,7 @@ A demo video showcasing the app functionalities will be uploaded soon.
    
   1. **Clone the repository**:
   
-   git clone <code>https://github.com/Shahnawaj01/Reachinbox-Frontend-assign.git<pre><br>
+   git clone <code>https://github.com/Shahnawaj01/Reachinbox-Frontend-assign.git</code></pre><br>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
