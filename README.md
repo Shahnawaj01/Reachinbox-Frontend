@@ -84,5 +84,4 @@ will be uploaded soon...
    # Credits <br/>
    This project was developed by ```Shahnawaz Ansari``` 
 
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
   
