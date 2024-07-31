@@ -70,6 +70,11 @@ A demo video showcasing the app functionalities will be uploaded soon.
   GOOGLE_CLIENT_SECRET=your-google-client-secret <br>
   NEXTAUTH_SECRET=your-nextauth-secret <br>
 
+ <h2>Required Figma Design and APIs</h2>
+ Figma Login Design [Click here](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design/).
+APIs  [Click here](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27/).
+ 
+
    <h2>Endpoints</h2>
    <h3>All Emails</h3>
    <pre><code>GET {{baseurl}}/onebox/list </code></pre>
@@ -82,6 +87,8 @@ A demo video showcasing the app functionalities will be uploaded soon.
 
    <h3>Delete Email</h3>
    <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
+
+   
 
  
    # Credits <br/>
