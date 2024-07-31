@@ -3,11 +3,22 @@
 ## Overview
 This repository contains the code for Reachinbox frontend  App using React with Typescript for an assignment given by Reachinbox.
 
-## Technologies Used ( Frontend )
-  - Typescript
-  - React
-  - Tailwind css
+## Features
 
+- **Login Page**: Implements user authentication using Google Login.
+- **Onebox Screen**: Displays a list of items fetched from the API.
+- **Keyboard Shortcuts**: Supports "D" for delete and "R" for reply.
+- **Custom Text Editor**: Includes custom buttons like "SAVE" and "Variables".
+- **Reply Functionality**: Allows sending replies via the API.
+- **Light/Dark Mode**: Toggle between light and dark themes.
+
+## Technologies Used ( Frontend )
+- ReactJS
+- NextJS
+- TailwindCSS
+- Axios
+- NextAuth
+  
 ## Deployment
 
 The application is deployed on netlify and can be accessed [here](https://reachinbox-frontend.netlify.app/).
@@ -41,7 +52,7 @@ will be uploaded soon...
 
 
 
- # How to Run <br/>
+ # Setup Instructions <br/>
  
    <h2>Installation</h2>
    
@@ -50,15 +61,11 @@ will be uploaded soon...
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
    Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
-   
 
-   ## Features 
-   
-  - Authentication
-  - Get Emails
-  - Post (send) Email
-  - Delete Email
-
+  <h2> Create a .env.local file with the following variables:</h2>
+   GOOGLE_CLIENT_ID=your-google-client-id
+  GOOGLE_CLIENT_SECRET=your-google-client-secret
+  NEXTAUTH_SECRET=your-nextauth-secret
 
    <h2>Endpoints</h2>
    <h3>All Emails</h3>
