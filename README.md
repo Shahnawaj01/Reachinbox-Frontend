@@ -63,9 +63,9 @@ will be uploaded soon...
    Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
 
   <h2> Create a .env.local file with the following variables:</h2>
-   GOOGLE_CLIENT_ID=your-google-client-id
-  GOOGLE_CLIENT_SECRET=your-google-client-secret
-  NEXTAUTH_SECRET=your-nextauth-secret
+   GOOGLE_CLIENT_ID=your-google-client-id <br>
+  GOOGLE_CLIENT_SECRET=your-google-client-secret <br>
+  NEXTAUTH_SECRET=your-nextauth-secret <br>
 
    <h2>Endpoints</h2>
    <h3>All Emails</h3>
